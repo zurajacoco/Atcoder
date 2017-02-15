@@ -1,0 +1,1298 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"maxp"
+			],
+			[
+				"fac",
+				"factInv"
+			],
+			[
+				"M",
+				"MOD"
+			],
+			[
+				"fa",
+				"fact"
+			],
+			[
+				"is",
+				"isLeaf"
+			],
+			[
+				"pri",
+				"print"
+			],
+			[
+				"a",
+				"array"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"to",
+				"to_i"
+			],
+			[
+				"di",
+				"dislike"
+			],
+			[
+				"rep",
+				"rep"
+			],
+			[
+				"re",
+				"rep"
+			],
+			[
+				"se",
+				"seven"
+			],
+			[
+				"st",
+				"str\tstring"
+			],
+			[
+				"s",
+				"s\tstring"
+			],
+			[
+				"co",
+				"cout"
+			],
+			[
+				"min",
+				"minimum"
+			],
+			[
+				"max",
+				"maximum"
+			],
+			[
+				"be",
+				"begin"
+			],
+			[
+				"ci",
+				"cities"
+			],
+			[
+				"fi",
+				"find"
+			],
+			[
+				"tm",
+				"tmp2"
+			],
+			[
+				"v",
+				"v\tvector"
+			],
+			[
+				"bi",
+				"bit"
+			],
+			[
+				"e",
+				"endl"
+			],
+			[
+				"c",
+				"cnt"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"ed",
+				"edge2"
+			],
+			[
+				"if",
+				"if\tIf Condition"
+			],
+			[
+				"b",
+				"break"
+			],
+			[
+				"retur",
+				"return"
+			],
+			[
+				"cou",
+				"cout"
+			],
+			[
+				"pu",
+				"push_back"
+			],
+			[
+				"p",
+				"push_back"
+			],
+			[
+				"f",
+				"from"
+			],
+			[
+				"I",
+				"INF"
+			],
+			[
+				"ve",
+				"vector"
+			],
+			[
+				"pa",
+				"pair"
+			],
+			[
+				"d",
+				"dbg"
+			],
+			[
+				"w",
+				"while\tWhile loop"
+			],
+			[
+				"g",
+				"greater"
+			],
+			[
+				"PP",
+				"PPI"
+			],
+			[
+				"r",
+				"road"
+			],
+			[
+				"end",
+				"endl"
+			],
+			[
+				"te",
+				"temple\ttemplates"
+			],
+			[
+				"tem",
+				"temple\t(templates.sublime-settings)"
+			],
+			[
+				"en",
+				"endl"
+			],
+			[
+				"i",
+				"if\tIf Condition"
+			],
+			[
+				"fla",
+				"flag2"
+			],
+			[
+				"t",
+				"time"
+			],
+			[
+				"va",
+				"value_b"
+			],
+			[
+				"sc",
+				"score"
+			],
+			[
+				"cos",
+				"costp"
+			],
+			[
+				"A",
+				"ArrayDeque"
+			],
+			[
+				"in",
+				"initial"
+			],
+			[
+				"prime",
+				"primemap"
+			],
+			[
+				"S",
+				"String"
+			],
+			[
+				"ne",
+				"nex\tnextInt"
+			],
+			[
+				"le",
+				"len"
+			],
+			[
+				"su",
+				"suma"
+			],
+			[
+				"sum",
+				"sumb"
+			],
+			[
+				"n",
+				"nex\tnextInt"
+			],
+			[
+				"ca",
+				"ca\tcatch"
+			],
+			[
+				"sta",
+				"static"
+			],
+			[
+				"h",
+				"house"
+			],
+			[
+				"lis",
+				"listUp"
+			],
+			[
+				"li",
+				"list_h"
+			],
+			[
+				"m",
+				"main\tmethod (main)"
+			],
+			[
+				"len",
+				"length-1"
+			],
+			[
+				"T",
+				"Text"
+			],
+			[
+				"br",
+				"bridge"
+			],
+			[
+				"H",
+				"HashMap"
+			],
+			[
+				"l",
+				"list"
+			],
+			[
+				"tr",
+				"triangle"
+			],
+			[
+				"wa",
+				"wall_l"
+			],
+			[
+				"wall",
+				"wall_l"
+			],
+			[
+				"ans",
+				"ans1"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"L",
+				"long"
+			],
+			[
+				"sr",
+				"srcName"
+			],
+			[
+				"dst",
+				"dstDir"
+			],
+			[
+				"src",
+				"srcFile"
+			],
+			[
+				"MA",
+				"maxN"
+			],
+			[
+				"de",
+				"define"
+			],
+			[
+				"ar",
+				"arrive"
+			],
+			[
+				"char",
+				"charAt"
+			],
+			[
+				"cha",
+				"charAt"
+			],
+			[
+				"for",
+				"formula"
+			],
+			[
+				"po",
+				"point"
+			],
+			[
+				"pl",
+				"pl\tprintln"
+			],
+			[
+				"C",
+				"Comparator"
+			],
+			[
+				"P",
+				"Plant"
+			],
+			[
+				"ce",
+				"cell_1"
+			],
+			[
+				"cre",
+				"createCell"
+			],
+			[
+				"cr",
+				"createCell"
+			],
+			[
+				"new",
+				"newLine"
+			],
+			[
+				"wi",
+				"wait"
+			],
+			[
+				"num",
+				"number"
+			],
+			[
+				"Ma",
+				"MAX_N"
+			],
+			[
+				"th",
+				"throw"
+			],
+			[
+				"ms",
+				"msprimes"
+			],
+			[
+				"o",
+				"OriginalException"
+			],
+			[
+				"str2",
+				"str2_len"
+			],
+			[
+				"str1",
+				"str1_len"
+			],
+			[
+				"da",
+				"data-1"
+			],
+			[
+				"do",
+				"down"
+			],
+			[
+				"bl",
+				"blank_y"
+			],
+			[
+				"tea",
+				"team_num"
+			],
+			[
+				"q",
+				"q_num"
+			],
+			[
+				"j",
+				"judge"
+			],
+			[
+				"sim",
+				"Simulation"
+			],
+			[
+				"im",
+				"implements"
+			],
+			[
+				"cnt",
+				"cnt_a"
+			],
+			[
+				"index",
+				"index_c"
+			],
+			[
+				"mi",
+				"min_x"
+			],
+			[
+				"ge",
+				"getSize"
+			],
+			[
+				"get",
+				"getName"
+			],
+			[
+				"x",
+				"xy"
+			],
+			[
+				"B",
+				"Box"
+			],
+			[
+				"heap_",
+				"heap_w"
+			],
+			[
+				"push_",
+				"push_h"
+			],
+			[
+				"tile",
+				"Tilemap"
+			],
+			[
+				"par",
+				"parts"
+			],
+			[
+				"nu",
+				"numerator"
+			],
+			[
+				"stack_o",
+				"Stackpop_prefix"
+			],
+			[
+				"stack_p",
+				"stack_prefix"
+			],
+			[
+				"ti",
+				"time1"
+			],
+			[
+				"D",
+				"double"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "ABC/ABC32/B.cpp",
+			"settings":
+			{
+				"buffer_size": 1159,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ABC/ABC32/C.cpp",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ABC/ABC32/D.cpp",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/C++11.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C++11.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++11.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C++14.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++14.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C++11.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 708.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"r",
+				"Set Syntax: Ruby"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: std::vector"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 892.0
+	},
+	"console":
+	{
+		"height": 308.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/zuraj/cpp/atcoder",
+		"/C/Users/zuraj/cpp/atcoder/ABC",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC32"
+	],
+	"file_history":
+	[
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC32/A.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC33/D.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC33/C.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC33/B.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC33/A.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC54/D.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC54/C.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC54/B.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC54/A.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC34/D.rb",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC34/D.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC34/C.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC34/B.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC34/A.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC36/D.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC36/C.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC36/B.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC36/A.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC37/D.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC37/A.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC37/B.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC37/C.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC41/D.cpp",
+		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/MySnippets/templates.sublime-snippet",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC42/D.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC42/C.cpp",
+		"/C/Users/zuraj/ruby/atcoder/ABC/ABC42/C.rb",
+		"/C/Users/zuraj/ruby/atcoder/ABC/ABC42/B.rb",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC42/B.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC42/A.cpp",
+		"/C/Users/zuraj/ruby/atcoder/ABC/ABC42/A.rb",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC43/D.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC43/Dver2.cpp",
+		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/MySnippets/string.sublime-snippet",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC43/C.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC43/B.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC43/A.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC44/D.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC44/C.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC44/B.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC44/A.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC47/A.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC47/B.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC47/C.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC47/D.cpp",
+		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/MySnippets/vector.sublime-snippet",
+		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/MySnippets/set.sublime-snippet",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC48/A.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC48/B.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC48/C.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC48/D.cpp",
+		"/C/Users/zuraj/cpp/atcoder/A.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC49/D.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC49/C.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC49/B.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC49/A.cpp",
+		"/C/Users/zuraj/cpp/ARC/cpp/ARC/ARC01/A.cpp",
+		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+		"/C/Users/zuraj/cpp/ABC/ARC/ARC01",
+		"/C/Users/zuraj/cpp/ABC/ABC49/D.cpp",
+		"/C/Users/zuraj/cpp/ABC/ABC49/C.cpp",
+		"/C/Users/zuraj/cpp/ABC/ABC49/B.cpp",
+		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/zuraj/cpp/ABC/ABC49/A.cpp",
+		"/C/Users/zuraj/cpp/ABC/ABC.sublime-project",
+		"/C/Users/zuraj/cpp/ABC/ARC01",
+		"/C/Users/zuraj/cpp/ABC/ABC49/ABC/ABC48/A.cpp",
+		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/Default (Windows).sublime-keymap",
+		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/GlassIt/Default (Windows).sublime-keymap",
+		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/GlassIt/glassit.sublime-settings",
+		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/glassit.sublime-settings",
+		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/TrailingSpaces/trailing_spaces.sublime-settings",
+		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/trailing_spaces.sublime-settings",
+		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/Default/Side Bar Mount Point.sublime-menu",
+		"/C/Users/zuraj/cpp/ABC/ABC50/D.cpp",
+		"/C/Users/zuraj/cpp/ABC/ABC50/C.cpp",
+		"/C/Users/zuraj/cpp/ABC/ABC50/B.cpp",
+		"/C/Users/zuraj/cpp/ABC/ABC50/A.cpp",
+		"/C/Users/zuraj/cpp/ABC/ABC51/D.cpp",
+		"/C/Users/zuraj/cpp/ABC/ABC51/C.cpp",
+		"/C/Users/zuraj/cpp/ABC/ABC51/B.cpp",
+		"/C/Users/zuraj/cpp/ABC/ABC51/A.cpp",
+		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/set.sublime-snippet",
+		"/C/Users/zuraj/java/at/ABC/ABC35/src/D.cpp",
+		"/C/Users/zuraj/java/at/ABC/ABC40/src/D.cpp",
+		"/C/Users/zuraj/cpp/ABC/ABC52/D.cpp",
+		"/C/Users/zuraj/cpp/ABC/ABC52/C.cpp",
+		"/C/Users/zuraj/cpp/ABC/ABC52/B.cpp",
+		"/C/Users/zuraj/cpp/ABC/ABC52/A.cpp",
+		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/templates.sublime-snippet",
+		"/C/Users/zuraj/java/at/ABC/ABC52/D.cpp",
+		"/C/Users/zuraj/java/at/ABC/ABC52/C.cpp",
+		"/C/Users/zuraj/java/at/ABC/ABC52/B.cpp",
+		"/C/Users/zuraj/java/at/ABC/ABC52/A.cpp",
+		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/vector.sublime-snippet",
+		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/C++14.sublime-build",
+		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/C.sublime-build",
+		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/C++11.sublime-build",
+		"/C/Users/zuraj/java/at/ABC/ABC52/test.cpp",
+		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/zuraj/cpp/templates.cpp",
+		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/templates.sublime-settings",
+		"/C/Users/zuraj/Desktop/test.cpp",
+		"/C/Users/zuraj/OneDrive/ドキュメント/waseda/早稲田 完全攻略/2年秋/アーキテクチャ/繧｢繝ｼ繧ｭ繝・け繝√Ε逕ｨ隱槭Γ繝｢.pages",
+		"/C/Users/zuraj/java/FacebookHackerCup/src/PPinput.txt",
+		"/C/Users/zuraj/AppData/Local/Temp/progress_pie.txt",
+		"/C/Users/zuraj/java/FacebookHackerCup/src/PPinput",
+		"/C/Users/zuraj/java/java.policy",
+		"/C/Program Files/Java/jdk1.8.0_91/jre/lib/security/java.policy",
+		"/C/Users/zuraj/c/3/3/Makefile",
+		"/C/Users/zuraj/c/grpwk/Makefile",
+		"/C/Users/zuraj/c/grpwk/data1_in",
+		"/C/Users/zuraj/c/19/grpwk/Makefile",
+		"/C/Users/zuraj/c/3/grpwk/Makefile",
+		"/C/cygwin64/home/work/tmips/memfile_original.dat",
+		"/C/cygwin64/home/work/tmips/top.v",
+		"/C/cygwin64/home/work/tmips/memfile.dat",
+		"/C/cygwin64/home/work/tmips/testbench.v",
+		"/C/cygwin64/home/work/tmips/mips.v",
+		"/C/cygwin64/home/work/tmips/datapath.v",
+		"/C/cygwin64/home/work/tmips/alu.v",
+		"/C/cygwin64/home/work/tmips/sample1.s"
+	],
+	"find":
+	{
+		"height": 56.0
+	},
+	"find_in_files":
+	{
+		"height": 176.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"}",
+			";\n",
+			"j",
+			"i",
+			"k",
+			"i",
+			"maxh",
+			"h",
+			"1000001",
+			"j",
+			"i",
+			"Folder",
+			"Integer",
+			"CF2014_",
+			" {",
+			"ArrayList",
+			"all",
+			"inpacket",
+			"outPacket",
+			"inPacket",
+			"inpacket",
+			"inPacket",
+			"outData",
+			"inData",
+			"outPacket",
+			"inPacket",
+			"outData",
+			"inData",
+			"k",
+			"j",
+			"+k",
+			"k",
+			"){}",
+			"+",
+			"city",
+			"j",
+			"j-1",
+			"temp",
+			"j-1",
+			"str[i][j-1]",
+			"str[i-1][j]",
+			"temp",
+			"max",
+			"sum",
+			"sqrt",
+			"SQRT",
+			"sqrt",
+			"}",
+			"]);",
+			"MAX_N",
+			" \n",
+			"\t\t\t\t\n",
+			"S",
+			" \n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			";\n",
+			"}",
+			"}\n",
+			"++;\n",
+			"}\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "ABC/ABC32/B.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1159,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								919,
+								919
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1158,
+										1159
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										850,
+										851
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1326.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ABC/ABC32/C.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "ABC/ABC32/D.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 56.0
+	},
+	"input":
+	{
+		"height": 126.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 175.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "atcoder.sublime-project",
+	"replace":
+	{
+		"height": 108.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 1000.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\zuraj\\RubyOnRails\\workspace\\hello_app\\hello_app.sublime-project"
+			]
+		],
+		"width": 760.0
+	},
+	"select_symbol":
+	{
+		"height": 115.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"main"
+			]
+		],
+		"width": 784.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 277.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

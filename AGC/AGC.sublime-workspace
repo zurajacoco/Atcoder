@@ -1,0 +1,1172 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"rep"
+			],
+			[
+				"if",
+				"if\tIf Condition"
+			],
+			[
+				"b",
+				"break"
+			],
+			[
+				"tm",
+				"tmp"
+			],
+			[
+				"retur",
+				"return"
+			],
+			[
+				"ma",
+				"max"
+			],
+			[
+				"cou",
+				"cout"
+			],
+			[
+				"e",
+				"earn"
+			],
+			[
+				"pu",
+				"push_back"
+			],
+			[
+				"p",
+				"push_back"
+			],
+			[
+				"f",
+				"from"
+			],
+			[
+				"I",
+				"INF"
+			],
+			[
+				"fi",
+				"fill"
+			],
+			[
+				"c",
+				"cost"
+			],
+			[
+				"ve",
+				"vector"
+			],
+			[
+				"pa",
+				"pair"
+			],
+			[
+				"d",
+				"dbg"
+			],
+			[
+				"ci",
+				"city"
+			],
+			[
+				"w",
+				"while\tWhile loop"
+			],
+			[
+				"g",
+				"greater"
+			],
+			[
+				"PP",
+				"PPI"
+			],
+			[
+				"r",
+				"road"
+			],
+			[
+				"a",
+				"ans"
+			],
+			[
+				"fa",
+				"factorization"
+			],
+			[
+				"s",
+				"size"
+			],
+			[
+				"end",
+				"endl"
+			],
+			[
+				"se",
+				"set"
+			],
+			[
+				"v",
+				"v\tvector"
+			],
+			[
+				"te",
+				"temple\ttemplates"
+			],
+			[
+				"tem",
+				"temple\t(templates.sublime-settings)"
+			],
+			[
+				"en",
+				"endl"
+			],
+			[
+				"co",
+				"cout"
+			],
+			[
+				"i",
+				"if\tIf Condition"
+			],
+			[
+				"st",
+				"struct\tstruct"
+			],
+			[
+				"fla",
+				"flag2"
+			],
+			[
+				"t",
+				"time"
+			],
+			[
+				"va",
+				"value_b"
+			],
+			[
+				"sc",
+				"score"
+			],
+			[
+				"cos",
+				"costp"
+			],
+			[
+				"A",
+				"ArrayDeque"
+			],
+			[
+				"in",
+				"initial"
+			],
+			[
+				"pri",
+				"prime"
+			],
+			[
+				"pr",
+				"primemap"
+			],
+			[
+				"M",
+				"MAX"
+			],
+			[
+				"prime",
+				"primemap"
+			],
+			[
+				"S",
+				"String"
+			],
+			[
+				"ne",
+				"nex\tnextInt"
+			],
+			[
+				"le",
+				"len"
+			],
+			[
+				"su",
+				"suma"
+			],
+			[
+				"sum",
+				"sumb"
+			],
+			[
+				"n",
+				"nex\tnextInt"
+			],
+			[
+				"ca",
+				"ca\tcatch"
+			],
+			[
+				"sta",
+				"static"
+			],
+			[
+				"h",
+				"house"
+			],
+			[
+				"lis",
+				"listUp"
+			],
+			[
+				"li",
+				"list_h"
+			],
+			[
+				"m",
+				"main\tmethod (main)"
+			],
+			[
+				"len",
+				"length-1"
+			],
+			[
+				"T",
+				"Text"
+			],
+			[
+				"br",
+				"bridge"
+			],
+			[
+				"H",
+				"HashMap"
+			],
+			[
+				"l",
+				"list"
+			],
+			[
+				"tr",
+				"triangle"
+			],
+			[
+				"wa",
+				"wall_l"
+			],
+			[
+				"wall",
+				"wall_l"
+			],
+			[
+				"ans",
+				"ans1"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"is",
+				"isPuttable"
+			],
+			[
+				"L",
+				"long"
+			],
+			[
+				"sr",
+				"srcName"
+			],
+			[
+				"dst",
+				"dstDir"
+			],
+			[
+				"src",
+				"srcFile"
+			],
+			[
+				"MA",
+				"maxN"
+			],
+			[
+				"de",
+				"define"
+			],
+			[
+				"ar",
+				"arrive"
+			],
+			[
+				"char",
+				"charAt"
+			],
+			[
+				"cha",
+				"charAt"
+			],
+			[
+				"for",
+				"formula"
+			],
+			[
+				"po",
+				"point"
+			],
+			[
+				"pl",
+				"pl\tprintln"
+			],
+			[
+				"C",
+				"Comparator"
+			],
+			[
+				"P",
+				"Plant"
+			],
+			[
+				"ce",
+				"cell_1"
+			],
+			[
+				"cre",
+				"createCell"
+			],
+			[
+				"cr",
+				"createCell"
+			],
+			[
+				"str",
+				"str_len"
+			],
+			[
+				"new",
+				"newLine"
+			],
+			[
+				"wi",
+				"wait"
+			],
+			[
+				"num",
+				"number"
+			],
+			[
+				"Ma",
+				"MAX_N"
+			],
+			[
+				"th",
+				"throw"
+			],
+			[
+				"ms",
+				"msprimes"
+			],
+			[
+				"o",
+				"OriginalException"
+			],
+			[
+				"str2",
+				"str2_len"
+			],
+			[
+				"str1",
+				"str1_len"
+			],
+			[
+				"da",
+				"data-1"
+			],
+			[
+				"do",
+				"down"
+			],
+			[
+				"bl",
+				"blank_y"
+			],
+			[
+				"tea",
+				"team_num"
+			],
+			[
+				"q",
+				"q_num"
+			],
+			[
+				"j",
+				"judge"
+			],
+			[
+				"sim",
+				"Simulation"
+			],
+			[
+				"im",
+				"implements"
+			],
+			[
+				"cnt",
+				"cnt_a"
+			],
+			[
+				"index",
+				"index_c"
+			],
+			[
+				"mi",
+				"min_x"
+			],
+			[
+				"ge",
+				"getSize"
+			],
+			[
+				"get",
+				"getName"
+			],
+			[
+				"x",
+				"xy"
+			],
+			[
+				"B",
+				"Box"
+			],
+			[
+				"heap_",
+				"heap_w"
+			],
+			[
+				"push_",
+				"push_h"
+			],
+			[
+				"tile",
+				"Tilemap"
+			],
+			[
+				"par",
+				"parts"
+			],
+			[
+				"nu",
+				"numerator"
+			],
+			[
+				"stack_o",
+				"Stackpop_prefix"
+			],
+			[
+				"stack_p",
+				"stack_prefix"
+			],
+			[
+				"ti",
+				"time1"
+			],
+			[
+				"D",
+				"double"
+			],
+			[
+				"y",
+				"y2"
+			],
+			[
+				"u",
+				"up"
+			],
+			[
+				"year",
+				"year-1"
+			],
+			[
+				"k",
+				"key"
+			],
+			[
+				"set",
+				"setCommon"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"fr",
+				"fortune"
+			],
+			[
+				"cost",
+				"cost_A"
+			],
+			[
+				"ta",
+				"tax_before"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "AGC10/A.cpp",
+			"settings":
+			{
+				"buffer_size": 1000,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "AGC10/B.cpp",
+			"settings":
+			{
+				"buffer_size": 1436,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/C++11.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/User/C++11.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++11.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C++11.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 291.0,
+		"last_filter": "Package Control: in",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: std::vector"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 928.0
+	},
+	"console":
+	{
+		"height": 308.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/zuraj/cpp/AGC/AGC10"
+	],
+	"file_history":
+	[
+		"/C/Users/zuraj/java/at/ABC/ABC35/src/D.cpp",
+		"/C/Users/zuraj/cpp/ABC/ABC51/D.cpp",
+		"/C/Users/zuraj/cpp/ABC/ABC51/C.cpp",
+		"/C/Users/zuraj/cpp/ABC/ABC51/B.cpp",
+		"/C/Users/zuraj/cpp/ABC/ABC51/A.cpp",
+		"/C/Users/zuraj/java/at/ABC/ABC40/src/D.cpp",
+		"/C/Users/zuraj/cpp/ABC/ABC52/D.cpp",
+		"/C/Users/zuraj/cpp/ABC/ABC52/C.cpp",
+		"/C/Users/zuraj/cpp/ABC/ABC52/B.cpp",
+		"/C/Users/zuraj/cpp/ABC/ABC52/A.cpp",
+		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/templates.sublime-snippet",
+		"/C/Users/zuraj/java/at/ABC/ABC52/D.cpp",
+		"/C/Users/zuraj/java/at/ABC/ABC52/C.cpp",
+		"/C/Users/zuraj/java/at/ABC/ABC52/B.cpp",
+		"/C/Users/zuraj/java/at/ABC/ABC52/A.cpp",
+		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/vector.sublime-snippet",
+		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/set.sublime-snippet",
+		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/C++14.sublime-build",
+		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/C.sublime-build",
+		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/C++11.sublime-build",
+		"/C/Users/zuraj/java/at/ABC/ABC52/test.cpp",
+		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/zuraj/cpp/templates.cpp",
+		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/templates.sublime-settings",
+		"/C/Users/zuraj/Desktop/test.cpp",
+		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/zuraj/OneDrive/ドキュメント/waseda/早稲田 完全攻略/2年秋/アーキテクチャ/繧｢繝ｼ繧ｭ繝・け繝√Ε逕ｨ隱槭Γ繝｢.pages",
+		"/C/Users/zuraj/java/FacebookHackerCup/src/PPinput.txt",
+		"/C/Users/zuraj/AppData/Local/Temp/progress_pie.txt",
+		"/C/Users/zuraj/java/FacebookHackerCup/src/PPinput",
+		"/C/Users/zuraj/java/java.policy",
+		"/C/Program Files/Java/jdk1.8.0_91/jre/lib/security/java.policy",
+		"/C/Users/zuraj/c/3/3/Makefile",
+		"/C/Users/zuraj/c/grpwk/Makefile",
+		"/C/Users/zuraj/c/grpwk/data1_in",
+		"/C/Users/zuraj/c/19/grpwk/Makefile",
+		"/C/Users/zuraj/c/3/grpwk/Makefile",
+		"/C/cygwin64/home/work/tmips/memfile_original.dat",
+		"/C/cygwin64/home/work/tmips/top.v",
+		"/C/cygwin64/home/work/tmips/memfile.dat",
+		"/C/cygwin64/home/work/tmips/testbench.v",
+		"/C/cygwin64/home/work/tmips/mips.v",
+		"/C/cygwin64/home/work/tmips/datapath.v",
+		"/C/cygwin64/home/work/tmips/alu.v",
+		"/C/cygwin64/home/work/tmips/sample1.s",
+		"/C/Users/zuraj/c/grpwk/files/Makefile",
+		"/C/Users/zuraj/c/grpwk/Middle.c",
+		"/C/Users/zuraj/c/files/files/data1_in",
+		"/C/Users/zuraj/c/files/files/data1_ref",
+		"/C/cygwin64/home/work/tmips/controller.v",
+		"/C/Users/zuraj/c/files/files/Makefile",
+		"/C/cygwin64/home/work/controller.v",
+		"/C/cygwin64/home/work/alu.v",
+		"/C/cygwin64/home/work/tmips.tgz",
+		"/C/cygwin64/home/work/carchA64.tgz",
+		"/C/Users/zuraj/java/aoj/ICPC2011domestic/src/D.c",
+		"/C/Users/zuraj/c/ads_hash/ads_hash/hash/SThash_test2.c",
+		"/C/cygwin64/home/zuraj/.bash_profile",
+		"/C/Users/zuraj/java/at/past/wupc2nd_B.java",
+		"/C/Users/zuraj/c/Railway_Connection.c",
+		"/C/Users/zuraj/java/at/ABC02_D.java",
+		"/C/Users/zuraj/java/at/ABC01_D.java",
+		"/C/Users/zuraj/c/adsB01/splayBST.c",
+		"/C/Users/zuraj/c/adsB01/randBST.c",
+		"/C/Users/zuraj/c/adsB01/ST.c",
+		"/C/Users/zuraj/c/adsB01/STtest.c",
+		"/C/Users/zuraj/c/adsB01/ST_BST1.c",
+		"/C/Users/zuraj/Downloads/proC/adsB01/adsB01/ST_BST2.c",
+		"/C/Users/zuraj/c/adsB01/Item.h",
+		"/C/Users/zuraj/c/adsB01/Item.c",
+		"/C/Users/zuraj/AppData/Local/Temp/2.c",
+		"/C/Users/zuraj/c/Panels_Connection.c",
+		"/C/Users/zuraj/java/at/CFC_A.java",
+		"/C/Users/zuraj/java/at/CFC_B.java",
+		"/C/Users/zuraj/java/at/CFC_C.java",
+		"/C/Users/zuraj/AppData/Local/Temp/splayBST.c",
+		"/C/Users/zuraj/AppData/Local/Temp/randBST.c",
+		"/C/Users/zuraj/java/at/ABC12_D.java",
+		"/C/Users/zuraj/java/at/DP_B.java",
+		"/C/Users/zuraj/java/at/DP_A.java",
+		"/C/Users/zuraj/c/Democracy.c",
+		"/C/Users/zuraj/java/at/ABC46_D.java",
+		"/C/Users/zuraj/java/at/ABC46_C.java",
+		"/C/Users/zuraj/java/at/ABC46_B.java",
+		"/C/Users/zuraj/java/at/ABC46_A.java",
+		"/C/Users/zuraj/Downloads/proC/adsB01/adsB01/ST.h",
+		"/C/Users/zuraj/Downloads/proC/adsB01/adsB01/ST.c",
+		"/C/Users/zuraj/Downloads/proC/adsB01/adsB01/STtest.c",
+		"/C/Users/zuraj/java/at/CFB_C.java",
+		"/C/Users/zuraj/java/at/CFB_B.java",
+		"/C/Users/zuraj/java/at/CFB_A.java",
+		"/C/Users/zuraj/java/at/KUPC_A.java",
+		"/C/Users/zuraj/java/at/KUPC_B.java",
+		"/C/Users/zuraj/java/at/KUPC_C.java",
+		"/C/Users/zuraj/java/at/KUPC_D.java",
+		"/C/Users/zuraj/java/at/AGC05_A.java",
+		"/C/Users/zuraj/java/at/AGC05_B.java",
+		"/C/Users/zuraj/java/at/Prime_Caves.java",
+		"/C/Users/zuraj/c/past/Reverse.c",
+		"/C/Users/zuraj/c/past/Shellsort1.c",
+		"/C/Users/zuraj/java/at/CF_D.java",
+		"/C/Users/zuraj/java/at/CF_C.java",
+		"/C/Users/zuraj/java/at/CF_B.java",
+		"/C/Users/zuraj/java/at/CF_A.java",
+		"/C/Users/zuraj/java/at/ABC45_B.java",
+		"/C/Users/zuraj/java/at/CFA_B.java",
+		"/C/Users/zuraj/java/at/CFA_C.java",
+		"/C/Users/zuraj/java/at/ARC61_D.java",
+		"/C/Users/zuraj/java/at/ARC61_C.java",
+		"/C/Users/zuraj/java/at/ABC43_C.java",
+		"/C/Users/zuraj/java/at/ABC43_A.java",
+		"/C/Users/zuraj/java/at/ABC43_B.java",
+		"/C/Users/zuraj/Downloads/dp2src_2006-04-04/src/WorkerThread/Sample/WorkerThread.java",
+		"/C/Users/zuraj/java/proA/past/FolderMain$Folder.class",
+		"/C/Users/zuraj/java/proA/past/FolderMain$Text.class",
+		"/C/Users/zuraj/java/proA/past/FolderMain.java",
+		"/C/Users/zuraj/java/proA/test.java",
+		"/C/Users/zuraj/c/pra.c",
+		"/C/Users/zuraj/c/past/heapsort.c",
+		"/C/Users/zuraj/c/past/linklist1.c",
+		"/C/Users/zuraj/AppData/Local/Temp/08_basic_data_structure1.pdf",
+		"/C/Users/zuraj/java/at/AGC01_A.java",
+		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/MySnippets/Arrays.sublime-snippet",
+		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/MySnippets/nextInt.sublime-snippet",
+		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/MySnippets/System.sublime-snippet",
+		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/MySnippets/Scanner.sublime-snippet",
+		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/MySnippets/javautil.sublime-snippet"
+	],
+	"find":
+	{
+		"height": 64.0
+	},
+	"find_in_files":
+	{
+		"height": 176.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"}",
+			";\n",
+			"j",
+			"i",
+			"k",
+			"i",
+			"maxh",
+			"h",
+			"1000001",
+			"j",
+			"i",
+			"Folder",
+			"Integer",
+			"CF2014_",
+			" {",
+			"ArrayList",
+			"all",
+			"inpacket",
+			"outPacket",
+			"inPacket",
+			"inpacket",
+			"inPacket",
+			"outData",
+			"inData",
+			"outPacket",
+			"inPacket",
+			"outData",
+			"inData",
+			"k",
+			"j",
+			"+k",
+			"k",
+			"){}",
+			"+",
+			"city",
+			"j",
+			"j-1",
+			"temp",
+			"j-1",
+			"str[i][j-1]",
+			"str[i-1][j]",
+			"temp",
+			"max",
+			"sum",
+			"sqrt",
+			"SQRT",
+			"sqrt",
+			"}",
+			"]);",
+			"MAX_N",
+			" \n",
+			"\t\t\t\t\n",
+			"S",
+			" \n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			";\n",
+			"}",
+			"}\n",
+			"++;\n",
+			"}\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "AGC10/A.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1000,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								913,
+								913
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										921,
+										922
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										908,
+										909
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1020.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "AGC10/B.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1436,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1296,
+								1296
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1330,
+										1331
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1295,
+										1296
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1546.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 64.0
+	},
+	"input":
+	{
+		"height": 64.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 328.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/C++11.sublime-build",
+	"project": "AGC.sublime-project",
+	"replace":
+	{
+		"height": 112.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 1000.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\zuraj\\java\\at\\ABC\\ABC52\\ABC052.sublime-workspace"
+			]
+		],
+		"width": 760.0
+	},
+	"select_symbol":
+	{
+		"height": 115.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"main"
+			]
+		],
+		"width": 784.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 300.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

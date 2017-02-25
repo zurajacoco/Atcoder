@@ -4,8 +4,56 @@
 		"selected_items":
 		[
 			[
+				"pos",
+				"position"
+			],
+			[
+				"fu",
+				"fullfill"
+			],
+			[
+				"pa",
+				"panel"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"mi",
+				"minus"
+			],
+			[
+				"a",
+				"acos"
+			],
+			[
+				"do",
+				"double"
+			],
+			[
+				"ma",
+				"maxch"
+			],
+			[
+				"sa",
+				"sal"
+			],
+			[
+				"max",
+				"maxch"
+			],
+			[
+				"pri",
+				"print"
+			],
+			[
 				"e",
-				"even"
+				"end"
+			],
+			[
+				"la",
+				"last"
 			],
 			[
 				"min",
@@ -14,18 +62,6 @@
 			[
 				"co",
 				"continue"
-			],
-			[
-				"pr",
-				"print"
-			],
-			[
-				"max",
-				"maxch"
-			],
-			[
-				"ma",
-				"maximum"
 			],
 			[
 				"fac",
@@ -42,14 +78,6 @@
 			[
 				"is",
 				"isLeaf"
-			],
-			[
-				"pri",
-				"print"
-			],
-			[
-				"a",
-				"array"
 			],
 			[
 				"to",
@@ -150,10 +178,6 @@
 			[
 				"ve",
 				"vector"
-			],
-			[
-				"pa",
-				"pair"
 			],
 			[
 				"d",
@@ -424,10 +448,6 @@
 				"data-1"
 			],
 			[
-				"do",
-				"down"
-			],
-			[
 				"bl",
 				"blank_y"
 			],
@@ -458,10 +478,6 @@
 			[
 				"index",
 				"index_c"
-			],
-			[
-				"mi",
-				"min_x"
 			],
 			[
 				"ge",
@@ -498,36 +514,11 @@
 			[
 				"nu",
 				"numerator"
-			],
-			[
-				"stack_o",
-				"Stackpop_prefix"
-			],
-			[
-				"stack_p",
-				"stack_prefix"
-			],
-			[
-				"ti",
-				"time1"
-			],
-			[
-				"D",
-				"double"
 			]
 		]
 	},
 	"buffers":
 	[
-		{
-			"file": "ABC/ABC31/D.cpp",
-			"settings":
-			{
-				"buffer_size": 1839,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "Packages/User/C++11.sublime-build",
 	"build_system_choices":
@@ -627,14 +618,52 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/zuraj/cpp/atcoder",
-		"/C/Users/zuraj/cpp/atcoder/ABC",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC31"
+		"/C/Users/zuraj/cpp/atcoder/ABC"
 	],
 	"file_history":
 	[
-		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/MySnippets/templates.sublime-snippet",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC23/C.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC23/B.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC23/A.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC24/D.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC34/C.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC24/C.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC24/B.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC24/A.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC24",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC25/D.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC25/C.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC25/B.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC25/A.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC26/D.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC26/D2.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC26/C.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC26/B.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC26/A.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC27/D.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC27/C.cpp",
+		"/C/Users/zuraj/c/grpwk/data5_ref",
+		"/C/Users/zuraj/c/grpwk/data5_in",
+		"/C/Users/zuraj/c/grpwk/BM.c",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC27/B.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC27/A.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC28/D.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC28/C.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC28/B.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC28/A.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC28",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC29/D.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC29/C.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC29/B.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC29/A.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC30/D.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC30/D.rb",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC30/C.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC30/B.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC30/A.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC30",
 		"/C/Users/zuraj/cpp/atcoder/ABC/ABC31/D.cpp",
+		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/MySnippets/templates.sublime-snippet",
 		"/C/Users/zuraj/cpp/atcoder/ABC/ABC31/C.cpp",
 		"/C/Users/zuraj/cpp/atcoder/ABC/ABC31/B.cpp",
 		"/C/Users/zuraj/cpp/atcoder/ABC/ABC31/A.cpp",
@@ -654,7 +683,6 @@
 		"/C/Users/zuraj/cpp/atcoder/ABC/ABC54/B.cpp",
 		"/C/Users/zuraj/cpp/atcoder/ABC/ABC54/A.cpp",
 		"/C/Users/zuraj/cpp/atcoder/ABC/ABC34/D.rb",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC34/C.cpp",
 		"/C/Users/zuraj/cpp/atcoder/ABC/ABC34/B.cpp",
 		"/C/Users/zuraj/cpp/atcoder/ABC/ABC34/A.cpp",
 		"/C/Users/zuraj/cpp/atcoder/ABC/ABC36/D.cpp",
@@ -721,50 +749,11 @@
 		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/TrailingSpaces/trailing_spaces.sublime-settings",
 		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/trailing_spaces.sublime-settings",
 		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
-		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/Default/Side Bar Mount Point.sublime-menu",
-		"/C/Users/zuraj/cpp/ABC/ABC50/D.cpp",
-		"/C/Users/zuraj/cpp/ABC/ABC50/C.cpp",
-		"/C/Users/zuraj/cpp/ABC/ABC50/B.cpp",
-		"/C/Users/zuraj/cpp/ABC/ABC50/A.cpp",
-		"/C/Users/zuraj/cpp/ABC/ABC51/D.cpp",
-		"/C/Users/zuraj/cpp/ABC/ABC51/C.cpp",
-		"/C/Users/zuraj/cpp/ABC/ABC51/B.cpp",
-		"/C/Users/zuraj/cpp/ABC/ABC51/A.cpp",
-		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/set.sublime-snippet",
-		"/C/Users/zuraj/java/at/ABC/ABC35/src/D.cpp",
-		"/C/Users/zuraj/java/at/ABC/ABC40/src/D.cpp",
-		"/C/Users/zuraj/cpp/ABC/ABC52/D.cpp",
-		"/C/Users/zuraj/cpp/ABC/ABC52/C.cpp",
-		"/C/Users/zuraj/cpp/ABC/ABC52/B.cpp",
-		"/C/Users/zuraj/cpp/ABC/ABC52/A.cpp",
-		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/templates.sublime-snippet",
-		"/C/Users/zuraj/java/at/ABC/ABC52/D.cpp",
-		"/C/Users/zuraj/java/at/ABC/ABC52/C.cpp",
-		"/C/Users/zuraj/java/at/ABC/ABC52/B.cpp",
-		"/C/Users/zuraj/java/at/ABC/ABC52/A.cpp",
-		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/vector.sublime-snippet",
-		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/C++14.sublime-build",
-		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/C.sublime-build",
-		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/C++11.sublime-build",
-		"/C/Users/zuraj/java/at/ABC/ABC52/test.cpp",
-		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-		"/C/Users/zuraj/cpp/templates.cpp",
-		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/templates.sublime-settings",
-		"/C/Users/zuraj/Desktop/test.cpp",
-		"/C/Users/zuraj/OneDrive/ドキュメント/waseda/早稲田 完全攻略/2年秋/アーキテクチャ/繧｢繝ｼ繧ｭ繝・け繝√Ε逕ｨ隱槭Γ繝｢.pages",
-		"/C/Users/zuraj/java/FacebookHackerCup/src/PPinput.txt",
-		"/C/Users/zuraj/AppData/Local/Temp/progress_pie.txt",
-		"/C/Users/zuraj/java/FacebookHackerCup/src/PPinput",
-		"/C/Users/zuraj/java/java.policy",
-		"/C/Program Files/Java/jdk1.8.0_91/jre/lib/security/java.policy",
-		"/C/Users/zuraj/c/3/3/Makefile",
-		"/C/Users/zuraj/c/grpwk/Makefile",
-		"/C/Users/zuraj/c/grpwk/data1_in",
-		"/C/Users/zuraj/c/19/grpwk/Makefile"
+		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/Default/Side Bar Mount Point.sublime-menu"
 	],
 	"find":
 	{
-		"height": 56.0
+		"height": 53.0
 	},
 	"find_in_files":
 	{
@@ -778,6 +767,15 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"[1]",
+			"[0]",
+			"k",
+			"x",
+			"canfill",
+			"size",
+			"ll",
+			"num2pos",
+			";\n",
 			"w",
 			"a",
 			";\n",
@@ -857,135 +855,14 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "ABC/ABC31/D.cpp",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1839,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1455,
-								1455
-							]
-						],
-						"settings":
-						{
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										1455,
-										1456
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/single_quote.png",
-										"brackethighlighter.default"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										1453,
-										1454
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content"
-							],
-							"origin_encoding": "ASCII",
-							"syntax": "Packages/C++/C++.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 56.0
+		"height": 53.0
 	},
 	"input":
 	{
@@ -1026,7 +903,7 @@
 	"project": "atcoder.sublime-project",
 	"replace":
 	{
-		"height": 108.0
+		"height": 102.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1046,7 +923,7 @@
 		[
 			[
 				"",
-				"C:\\Users\\zuraj\\RubyOnRails\\workspace\\hello_app\\hello_app.sublime-project"
+				"C:\\Users\\zuraj\\RubyOnRails\\workspace\\taskapp\\taskapp.sublime-project"
 			]
 		],
 		"width": 760.0

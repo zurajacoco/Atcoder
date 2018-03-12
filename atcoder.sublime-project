@@ -2,7 +2,13 @@
 	"folders":
 	[
 		{
-			"path": "."
+			"path": "C:\\Users\\zuraj\\cpp"
+		},
+		{
+			"path": "C:\\Users\\zuraj\\python"
+		},
+		{
+			"path": "C:\\Users\\zuraj\\RubyonRails\\workspace"
 		}
 	]
 }

@@ -4,100 +4,200 @@
 		"selected_items":
 		[
 			[
-				"pos",
-				"position"
+				"to",
+				"to_ten"
 			],
 			[
-				"fu",
-				"fullfill"
+				"ar",
+				"argv"
 			],
 			[
-				"pa",
-				"panel"
+				"ans",
+				"ans.size"
 			],
 			[
-				"pr",
-				"print"
+				"is",
+				"is_prime"
 			],
 			[
-				"mi",
-				"minus"
+				"ne",
+				"next_vel"
 			],
 			[
-				"a",
-				"acos"
+				"next",
+				"next_pos"
 			],
 			[
-				"do",
-				"double"
+				"nex",
+				"next_vel"
 			],
 			[
-				"ma",
-				"maxch"
+				"initi",
+				"initial_can"
 			],
 			[
-				"sa",
-				"sal"
+				"ini",
+				"initial_can"
 			],
 			[
-				"max",
-				"maxch"
+				"x",
+				"x"
 			],
 			[
-				"pri",
-				"print"
+				"obsta",
+				"obstacled_to_wall"
 			],
 			[
-				"e",
-				"end"
+				"int",
+				"intersects"
 			],
 			[
-				"la",
-				"last"
+				"obs",
+				"obstacled"
 			],
 			[
-				"min",
-				"minch"
+				"colli",
+				"collision_to_opp"
+			],
+			[
+				"beg",
+				"beginend\t$1.begin(), $1.end()"
+			],
+			[
+				"rea",
+				"reached"
+			],
+			[
+				"go",
+				"goalTime"
 			],
 			[
 				"co",
-				"continue"
+				"course"
 			],
 			[
-				"fac",
-				"factInv"
+				"tme",
+				"\\times                                            \tlatex-mathsymbols"
 			],
 			[
-				"M",
-				"MOD"
+				"ove",
+				"\\overline{text}                                   \tlatex-document"
+			],
+			[
+				"subsubse",
+				"\\subsubsection{title}                             \tlatex-document"
+			],
+			[
+				"begin",
+				"\\begin{array}{cols}                               \tlatex-document"
+			],
+			[
+				"right",
+				"\\right.                                           \tlatex-document"
+			],
+			[
+				"sec",
+				"\\section{title}                                   \tlatex-document"
+			],
+			[
+				"be",
+				"\\begin{enumerate}                                 \tlatex-document"
+			],
+			[
+				"uni",
+				"union_find"
+			],
+			[
+				"str",
+				"str\tstring"
+			],
+			[
+				"fin",
+				"finish_color"
+			],
+			[
+				"curs",
+				"current_search_color"
+			],
+			[
+				"table",
+				"table\ttex-table"
+			],
+			[
+				"sta",
+				"state_cnt"
+			],
+			[
+				"fib",
+				"fibonacci"
+			],
+			[
+				"ex",
+				"extract_max"
+			],
+			[
+				"p",
+				"path"
+			],
+			[
+				"k",
+				"key"
+			],
+			[
+				"pa",
+				"partition_position"
+			],
+			[
+				"se",
+				"separate_position"
+			],
+			[
+				"odd",
+				"odd_cost"
+			],
+			[
+				"ev",
+				"even_cost"
+			],
+			[
+				"od",
+				"odd_cost"
+			],
+			[
+				"cost",
+				"cost_odd"
+			],
+			[
+				"ro",
+				"rotate_R"
+			],
+			[
+				"rota",
+				"rotate_R"
 			],
 			[
 				"fa",
 				"fact"
 			],
 			[
-				"is",
-				"isLeaf"
+				"merge",
+				"merge_sort"
 			],
 			[
-				"to",
-				"to_i"
+				"fi",
+				"findMax"
 			],
 			[
-				"di",
-				"dislike"
+				"sum",
+				"sumf"
 			],
 			[
-				"rep",
-				"rep"
+				"min",
+				"minb"
 			],
 			[
-				"re",
-				"rep"
-			],
-			[
-				"se",
-				"seven"
+				"max",
+				"maxf"
 			],
 			[
 				"st",
@@ -105,99 +205,67 @@
 			],
 			[
 				"s",
-				"s\tstring"
+				"str\tstring"
 			],
 			[
-				"be",
-				"begin"
+				"LI",
+				"LIMIT_TIME"
 			],
 			[
-				"ci",
-				"cities"
+				"ids_",
+				"ids_h2"
 			],
 			[
-				"fi",
-				"find"
+				"pri",
+				"priority_queue"
 			],
 			[
-				"tm",
-				"tmp2"
+				"ma",
+				"manhattan"
+			],
+			[
+				"w",
+				"wrong_place"
+			],
+			[
+				"pu",
+				"puzzle2"
+			],
+			[
+				"pr",
+				"priority_queue"
+			],
+			[
+				"mov",
+				"moveCount"
+			],
+			[
+				"pazze",
+				"pazzle0\t(astar.cpp)"
 			],
 			[
 				"v",
 				"v\tvector"
 			],
 			[
-				"bi",
-				"bit"
+				"de",
+				"depth"
 			],
 			[
-				"c",
-				"cnt"
+				"paz",
+				"pazzle0"
 			],
 			[
-				"str",
-				"string"
+				"pazz",
+				"pazzle1"
 			],
 			[
-				"ed",
-				"edge2"
-			],
-			[
-				"if",
-				"if\tIf Condition"
-			],
-			[
-				"b",
-				"break"
-			],
-			[
-				"retur",
-				"return"
-			],
-			[
-				"cou",
-				"cout"
-			],
-			[
-				"pu",
-				"push_back"
-			],
-			[
-				"p",
-				"push_back"
-			],
-			[
-				"f",
-				"from"
-			],
-			[
-				"I",
-				"INF"
-			],
-			[
-				"ve",
-				"vector"
-			],
-			[
-				"d",
-				"dbg"
-			],
-			[
-				"w",
-				"while\tWhile loop"
+				"def",
+				"define"
 			],
 			[
 				"g",
-				"greater"
-			],
-			[
-				"PP",
-				"PPI"
-			],
-			[
-				"r",
-				"road"
+				"goal"
 			],
 			[
 				"end",
@@ -208,321 +276,269 @@
 				"temple\ttemplates"
 			],
 			[
-				"tem",
-				"temple\t(templates.sublime-settings)"
+				"En",
+				"Encoding:UTF-8\t(test2)"
 			],
 			[
 				"en",
-				"endl"
+				"encoding"
 			],
 			[
-				"i",
-				"if\tIf Condition"
+				"rep",
+				"replace\t(getpdf.py)"
 			],
 			[
-				"fla",
-				"flag2"
+				"tit",
+				"title"
 			],
 			[
-				"t",
-				"time"
+				"ti",
+				"titles"
 			],
 			[
-				"va",
-				"value_b"
+				"new",
+				"new_str"
 			],
 			[
-				"sc",
-				"score"
+				"rn",
+				"rngl"
 			],
 			[
-				"cos",
-				"costp"
+				"mer",
+				"merge_sort"
 			],
 			[
-				"A",
-				"ArrayDeque"
+				"r",
+				"rngr"
 			],
 			[
-				"in",
-				"initial"
+				"me",
+				"merge_sort"
 			],
 			[
-				"prime",
-				"primemap"
+				"del",
+				"del_first"
 			],
 			[
-				"S",
-				"String"
+				"endi",
+				"\\end{itemize}                                     \tlatex-document"
 			],
 			[
-				"ne",
-				"nex\tnextInt"
+				"line",
+				"\\line                                             \ttex"
 			],
 			[
-				"le",
-				"len"
+				"clear",
+				"\\cleartabs                                        \ttex"
 			],
 			[
-				"su",
-				"suma"
+				"clea",
+				"\\clearpage                                        \tlatex-document"
 			],
 			[
-				"sum",
-				"sumb"
+				"e",
+				"\\end{center}                                      \tlatex-document"
 			],
 			[
-				"n",
-				"nex\tnextInt"
+				"lst",
+				"\\lstinputlisting{filename}                        \tlistings"
 			],
 			[
-				"ca",
-				"ca\tcatch"
+				"us",
+				"\\usepackage{package}                              \tlatex-document"
 			],
 			[
-				"sta",
-				"static"
+				"uple",
+				"upleft_diff"
 			],
 			[
-				"h",
-				"house"
+				"img_",
+				"img_nearmost"
 			],
 			[
-				"lis",
-				"listUp"
+				"img_n",
+				"img_ntsc_another"
 			],
 			[
-				"li",
-				"list_h"
+				"im",
+				"img"
 			],
 			[
-				"m",
-				"main\tmethod (main)"
+				"ha",
+				"hato_original.jpg\tw:500 h:333"
 			],
 			[
-				"len",
-				"length-1"
+				"img",
+				"img_gray"
 			],
 			[
-				"T",
-				"Text"
+				"mat",
+				"matplotlib〔module〕"
 			],
 			[
-				"br",
-				"bridge"
+				"pyp",
+				"pyplot〔module〕"
 			],
 			[
-				"H",
-				"HashMap"
-			],
-			[
-				"l",
-				"list"
-			],
-			[
-				"tr",
-				"triangle"
-			],
-			[
-				"wa",
-				"wall_l"
-			],
-			[
-				"wall",
-				"wall_l"
-			],
-			[
-				"ans",
-				"ans1"
-			],
-			[
-				"ret",
-				"return"
-			],
-			[
-				"L",
-				"long"
-			],
-			[
-				"sr",
-				"srcName"
-			],
-			[
-				"dst",
-				"dstDir"
-			],
-			[
-				"src",
-				"srcFile"
-			],
-			[
-				"MA",
-				"maxN"
-			],
-			[
-				"de",
-				"define"
-			],
-			[
-				"ar",
-				"arrive"
-			],
-			[
-				"char",
-				"charAt"
+				"mai",
+				"matplotlib〔module〕"
 			],
 			[
 				"cha",
-				"charAt"
+				"change"
 			],
 			[
-				"for",
-				"formula"
+				"I",
+				"INF"
 			],
 			[
-				"po",
-				"point"
+				"tr",
+				"try\ttry catch block"
+			],
+			[
+				"in",
+				"inc\t#include <…>"
+			],
+			[
+				"ok",
+				"ok_h"
+			],
+			[
+				"cou",
+				"cout"
 			],
 			[
 				"pl",
 				"pl\tprintln"
 			],
 			[
+				"T",
+				"ToURL"
+			],
+			[
+				"S",
+				"SLOT"
+			],
+			[
+				"bi",
+				"birth"
+			],
+			[
+				"pla",
+				"playerName"
+			],
+			[
+				"Pl",
+				"PlayerName\t(MemoryClient.java)"
+			],
+			[
 				"C",
-				"Comparator"
+				"ChatterClient"
 			],
 			[
-				"P",
-				"Plant"
-			],
-			[
-				"ce",
-				"cell_1"
-			],
-			[
-				"cre",
-				"createCell"
-			],
-			[
-				"cr",
-				"createCell"
-			],
-			[
-				"new",
-				"newLine"
-			],
-			[
-				"wi",
-				"wait"
-			],
-			[
-				"num",
-				"number"
-			],
-			[
-				"Ma",
-				"MAX_N"
-			],
-			[
-				"th",
-				"throw"
+				"Cha",
+				"ChatterClient\t(ChatterClient.java)"
 			],
 			[
 				"ms",
-				"msprimes"
+				"ms_chat"
 			],
 			[
-				"o",
-				"OriginalException"
+				"a",
+				"alpha"
 			],
 			[
-				"str2",
-				"str2_len"
+				"ho",
+				"hodSum"
 			],
 			[
-				"str1",
-				"str1_len"
+				"res",
+				"restCards"
 			],
 			[
-				"da",
-				"data-1"
+				"M",
+				"MOD"
 			],
 			[
-				"bl",
-				"blank_y"
+				"conti",
+				"continueFlag"
 			],
 			[
-				"tea",
-				"team_num"
+				"getp",
+				"getPrintWriter"
 			],
 			[
-				"q",
-				"q_num"
+				"getc",
+				"getComponents"
 			],
 			[
-				"j",
-				"judge"
+				"ca",
+				"cardsPanel"
 			],
 			[
-				"sim",
-				"Simulation"
+				"So",
+				"SoundPlay"
 			],
 			[
-				"im",
-				"implements"
+				"er",
+				"error"
 			],
 			[
-				"cnt",
-				"cnt_a"
+				"H",
+				"HostAndClientPanel\t(HostAndClientPanel.java)"
 			],
 			[
-				"index",
-				"index_c"
+				"set",
+				"setText"
 			],
 			[
-				"ge",
-				"getSize"
+				"ga",
+				"gameLabel"
 			],
 			[
-				"get",
-				"getName"
+				"por",
+				"portNumber"
 			],
 			[
-				"x",
-				"xy"
+				"vis",
+				"visited"
 			],
 			[
-				"B",
-				"Box"
+				"ed",
+				"endl"
 			],
 			[
-				"heap_",
-				"heap_w"
+				"b",
+				"beginend\t$1.begin(), $1.end()"
 			],
 			[
-				"push_",
-				"push_h"
-			],
-			[
-				"tile",
-				"Tilemap"
-			],
-			[
-				"par",
-				"parts"
-			],
-			[
-				"nu",
-				"numerator"
+				"on",
+				"on_search"
 			]
 		]
 	},
 	"buffers":
 	[
 	],
-	"build_system": "Packages/User/C++11.sublime-build",
+	"build_system": "Packages/User/C++14.sublime-build",
 	"build_system_choices":
 	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
 		[
 			[
 				[
@@ -551,7 +567,139 @@
 				]
 			],
 			[
+				"Packages/User/C++14.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/JavaExe.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"Traditional"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/C++11.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++11.sublime-build",
+					"Run"
+				]
+			],
+			[
 				"Packages/User/C++11.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/C++14.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++14.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C++14.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/myC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/myC.sublime-build",
+					"Compile and Run with Terminal"
+				],
+				[
+					"Packages/User/myC.sublime-build",
+					"Compile with Terminal"
+				],
+				[
+					"Packages/User/myC.sublime-build",
+					"Run with Terminal"
+				],
+				[
+					"Packages/User/myC.sublime-build",
+					"ALL Compile with Terminal"
+				],
+				[
+					"Packages/User/myC.sublime-build",
+					"ALL Compile and Run with Terminal"
+				]
+			],
+			[
+				"Packages/User/myC.sublime-build",
 				""
 			]
 		]
@@ -559,17 +707,57 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 708.0,
-		"last_filter": "Package Control: ",
+		"height": 714.0,
+		"last_filter": "d",
 		"selected_items":
 		[
 			[
-				"Package Control: ",
-				"Package Control: Upgrade Package"
+				"d",
+				"Diffy Compare"
+			],
+			[
+				"diff",
+				"Diffy Compare"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"boxy",
+				"Boxy Theme: Extras"
 			],
 			[
 				"in",
 				"Package Control: Install Package"
+			],
+			[
+				"package re",
+				"Package Control: Remove Package"
+			],
+			[
+				"di",
+				"Diffy Compare"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade Package"
 			],
 			[
 				"remo",
@@ -596,7 +784,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 892.0
+		"width": 941.0
 	},
 	"console":
 	{
@@ -618,138 +806,141 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/zuraj/cpp/atcoder/ABC"
+		"/C/Users/zuraj/cpp",
+		"/C/Users/zuraj/cpp/atcoder",
+		"/C/Users/zuraj/cpp/atcoder/ABC",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC90"
 	],
 	"file_history":
 	[
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC23/C.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC23/B.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC23/A.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC24/D.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC34/C.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC24/C.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC24/B.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC24/A.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC24",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC25/D.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC25/C.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC25/B.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC25/A.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC26/D.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC26/D2.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC26/C.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC26/B.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC26/A.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC27/D.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC27/C.cpp",
-		"/C/Users/zuraj/c/grpwk/data5_ref",
-		"/C/Users/zuraj/c/grpwk/data5_in",
-		"/C/Users/zuraj/c/grpwk/BM.c",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC27/B.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC27/A.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC28/D.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC28/C.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC28/B.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC28/A.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC28",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC29/D.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC29/C.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC29/B.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC29/A.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC30/D.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC30/D.rb",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC30/C.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC30/B.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC30/A.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC30",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC31/D.cpp",
-		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/MySnippets/templates.sublime-snippet",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC31/C.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC31/B.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC31/A.cpp",
-		"/C/Users/zuraj/cpp/atcoder/README.md",
-		"/C/Users/zuraj/cpp/atcoder/READNE.md",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC54/D.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC32/D.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC32/C.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC34/D.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC32/B.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC32/A.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC33/D.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC33/C.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC33/B.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC33/A.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC54/C.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC54/B.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC54/A.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC34/D.rb",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC34/B.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC34/A.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC36/D.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC36/C.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC36/B.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC36/A.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC37/D.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC37/A.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC37/B.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC37/C.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC41/D.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC42/D.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC42/C.cpp",
-		"/C/Users/zuraj/ruby/atcoder/ABC/ABC42/C.rb",
-		"/C/Users/zuraj/ruby/atcoder/ABC/ABC42/B.rb",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC42/B.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC42/A.cpp",
-		"/C/Users/zuraj/ruby/atcoder/ABC/ABC42/A.rb",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC43/D.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC43/Dver2.cpp",
-		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/MySnippets/string.sublime-snippet",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC43/C.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC43/B.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC43/A.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC44/D.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC44/C.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC44/B.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC44/A.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC47/A.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC47/B.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC47/C.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC47/D.cpp",
-		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/MySnippets/vector.sublime-snippet",
-		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/MySnippets/set.sublime-snippet",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC48/A.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC48/B.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC48/C.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC48/D.cpp",
-		"/C/Users/zuraj/cpp/atcoder/A.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC49/D.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC49/C.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC49/B.cpp",
-		"/C/Users/zuraj/cpp/atcoder/ABC/ABC49/A.cpp",
-		"/C/Users/zuraj/cpp/ARC/cpp/ARC/ARC01/A.cpp",
-		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
-		"/C/Users/zuraj/cpp/ABC/ARC/ARC01",
-		"/C/Users/zuraj/cpp/ABC/ABC49/D.cpp",
-		"/C/Users/zuraj/cpp/ABC/ABC49/C.cpp",
-		"/C/Users/zuraj/cpp/ABC/ABC49/B.cpp",
-		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-		"/C/Users/zuraj/cpp/ABC/ABC49/A.cpp",
-		"/C/Users/zuraj/cpp/ABC/ABC.sublime-project",
-		"/C/Users/zuraj/cpp/ABC/ARC01",
-		"/C/Users/zuraj/cpp/ABC/ABC49/ABC/ABC48/A.cpp",
-		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/Default (Windows).sublime-keymap",
-		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
-		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
-		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/GlassIt/Default (Windows).sublime-keymap",
-		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/GlassIt/glassit.sublime-settings",
-		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/glassit.sublime-settings",
-		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
-		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
-		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/TrailingSpaces/trailing_spaces.sublime-settings",
-		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/trailing_spaces.sublime-settings",
-		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
-		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/Default/Side Bar Mount Point.sublime-menu"
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC90/D.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC90/C.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC90/B.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC90/A.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC05/D.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC05/C.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC05/B.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC05/A.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC06/D.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC06/C.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC06/B.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC06/A.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC89/D.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC89/C.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC89/B.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC89/A.cpp",
+		"/C/Users/zuraj/Saved Games/muge2/巡り廻る。ver1.21/Save/SaveData01.sav",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC07/D.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC07/C.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC07/B.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC07/A.cpp",
+		"/C/Users/zuraj/Desktop/就活情報/yahoo/説明会.txt",
+		"/C/Users/zuraj/Desktop/就活情報/yahoo/questions.txt",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC08/C.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC08/B.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC08/A.cpp",
+		"/C/Users/zuraj/Desktop/就活情報/yahoo/説明会",
+		"/C/Users/zuraj/cpp/akatsuki/A.cpp",
+		"/C/Users/zuraj/java/Experiment/test/MainFrame.java",
+		"/C/Users/zuraj/cpp/yahoo/A.cpp",
+		"/C/Users/zuraj/cpp/Library/templates.cpp",
+		"/C/Users/zuraj/cpp/cpp_references.txt",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC09/D.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC09/C.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC09/B.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC09/A.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC04/C.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC04/B.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC04/D.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC12/D.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC12/A.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC12/C.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC12/B.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC10/C.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC10/B.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC10/A.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC11/D.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC11/C.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC11/B.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC11/A.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC88/D.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC88/C.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC88/B.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC88/A.cpp",
+		"/C/Users/zuraj/RubyonRails/workspace/orienteering/equipment_app/Gemfile",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC03/C.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC03/B.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC03/A.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC02/C.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC02/B.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC02/A.cpp",
+		"/C/Users/zuraj/cpp/atcoder/yahoo_minpro/2018/C.cpp",
+		"/C/Users/zuraj/cpp/atcoder/yahoo_minpro/2018/C",
+		"/C/Users/zuraj/cpp/atcoder/yahoo_minpro/2018/B.cpp",
+		"/C/Users/zuraj/cpp/atcoder/yahoo_minpro/2018/A.cpp",
+		"/C/Users/zuraj/Desktop/就活情報/0211イベント会社まとめ.txt",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC01/C.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC01/B.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC01/A.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC87/D.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC87/C.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC87/B.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC87/A.cpp",
+		"/C/Users/zuraj/OneDrive/ドキュメント/3年/HPC/lc.c",
+		"/C/Users/zuraj/OneDrive/ドキュメント/3年/HPC/lc_mpi.c",
+		"/C/Users/zuraj/OneDrive/ドキュメント/3年/HPC/report2.tex",
+		"/C/Users/zuraj/cpp/AOJ/ICPC/ASIA_2017/A.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC86/D.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC86/A.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC86/C.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC86/B.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC85/B.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC85/D.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC85/C.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC85/A.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC84/A.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC84/D.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC84/C.cpp",
+		"/C/Users/zuraj/cpp/atcoder/ABC/ABC84/B.cpp",
+		"/C/Users/zuraj/OneDrive/ドキュメント/3年/progC/samurAI/Software2017-18-master/Software2017-18-master/player/4.cpp",
+		"/C/Users/zuraj/OneDrive/ドキュメント/3年/progC/samurAI/Software2017-18-master/Software2017-18-master/player/6.cpp",
+		"/C/Users/zuraj/OneDrive/ドキュメント/3年/progC/samurAI/Software2017-18-master/Software2017-18-master/zip/sample/greedy.cpp",
+		"/C/Users/zuraj/OneDrive/ドキュメント/3年/progC/samurAI/Software2017-18-master/Software2017-18-master/player/5.cpp",
+		"/C/Users/zuraj/OneDrive/ドキュメント/3年/progC/samurAI/Software2017-18-master/Software2017-18-master/stdin0.txt",
+		"/C/Users/zuraj/OneDrive/ドキュメント/3年/progC/samurAI/Software2017-18-master/Software2017-18-master/stderr0.txt",
+		"/C/Users/zuraj/OneDrive/ドキュメント/3年/progC/samurAI/Software2017-18-master/Software2017-18-master/run.sh",
+		"/C/Users/zuraj/OneDrive/ドキュメント/3年/progC/samurAI/Software2017-18-master/Software2017-18-master/zip/sample/run.sh",
+		"/C/Users/zuraj/OneDrive/ドキュメント/3年/progC/samurAI/Software2017-18-master/Software2017-18-master/zip/sample/compile.sh",
+		"/C/Users/zuraj/AppData/Local/Temp/Temp1_sample.zip/sample/greedy.cpp",
+		"/C/Users/zuraj/cpp/paiza/Donuts/A.cpp",
+		"/C/Users/zuraj/OneDrive/ドキュメント/3年/progC/samurAI/Software2017-18-master/Software2017-18-master/in",
+		"/C/Users/zuraj/OneDrive/ドキュメント/3年/progC/samurAI/Software2017-18-master/Software2017-18-master/player/3.cpp",
+		"/C/Users/zuraj/OneDrive/ドキュメント/3年/progC/samurAI/Software2017-18-master/Software2017-18-master/out",
+		"/C/Users/zuraj/OneDrive/ドキュメント/3年/progC/samurAI/Software2017-18-master/Software2017-18-master/player/raceState.cpp",
+		"/C/Users/zuraj/cpp/Library/line.cpp",
+		"/C/Users/zuraj/OneDrive/ドキュメント/3年/progC/samurAI/Software2017-18-master/Software2017-18-master/player/raceState.hpp",
+		"/C/Users/zuraj/cpp/paiza/Donuts/C.cpp",
+		"/C/Users/zuraj/cpp/paiza/Donuts/B.cpp",
+		"/C/Users/zuraj/OneDrive/ドキュメント/3年/progC/samurAI/Software2017-18-master/Software2017-18-master/player/1.cpp",
+		"/C/Users/zuraj/OneDrive/ドキュメント/3年/Cdev/game/game/draw.c",
+		"/C/Users/zuraj/OneDrive/ドキュメント/3年/Cdev/game/main.c",
+		"/C/Users/zuraj/OneDrive/ドキュメント/3年/Cdev/課題2/ant.c",
+		"/C/Users/zuraj/OneDrive/ドキュメント/3年/progC/samurAI/Software2017-18-master/Software2017-18-master/player/greedy.cpp",
+		"/C/Users/zuraj/OneDrive/ドキュメント/3年/progC/samurAI/Software2017-18-master/Software2017-18-master/player/2.cpp",
+		"/C/Users/zuraj/OneDrive/ドキュメント/3年/progC/samurAI/Software2017-18-master/Software2017-18-master/player/1/2.cpp",
+		"/C/Users/zuraj/OneDrive/ドキュメント/3年/progC/samurAI/Software2017-18-master/Software2017-18-master/player/1/raceState.cpp",
+		"/C/Users/zuraj/OneDrive/ドキュメント/3年/progC/samurAI/Software2017-18-master/Software2017-18-master/player/1/raceState.hpp",
+		"/C/Users/zuraj/OneDrive/ドキュメント/3年/progC/samurAI/Software2017-18-master/Software2017-18-master/player/1/greedy.cpp",
+		"/C/Users/zuraj/OneDrive/ドキュメント/3年/プログラミング言語/report2.tex",
+		"/C/Users/zuraj/OneDrive/ドキュメント/3年/progC/samurAI/Software2017-18-master/run.sh",
+		"/C/Users/zuraj/OneDrive/ドキュメント/3年/情報理工学実験/robotvision/report.tex",
+		"/C/Users/zuraj/OneDrive/ドキュメント/3年/progC/washizaki_0116/48.cpp",
+		"/C/Users/zuraj/OneDrive/ドキュメント/3年/情報理工学実験/robotvision/week1/kadai6_temp.c",
+		"/C/Users/zuraj/OneDrive/ドキュメント/3年/progC/washizaki_0116/47.cpp",
+		"/C/Users/zuraj/OneDrive/ドキュメント/3年/情報理工学実験/robotvision/code.c",
+		"/C/Users/zuraj/OneDrive/ドキュメント/3年/プログラミング言語/form0218.tex",
+		"/C/Users/zuraj/OneDrive/ドキュメント/3年/情報理工学実験/robotvision/kadaiv3_hough2.c",
+		"/C/Users/zuraj/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings"
 	],
 	"find":
 	{
@@ -767,72 +958,134 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"[1]",
-			"[0]",
-			"k",
+			"argv[argc - 1]",
+			"argv[i]",
+			"num",
+			"j",
+			"10",
+			", ",
+			"cout << 0 << endl;",
+			"n - j",
+			"(string)",
+			"0",
+			"p.se",
+			"p.fi",
+			"\n    ",
+			"コンサルテーション、ビッグデータ分析環境の構築、マーケティングプラットフォーム事業",
+			".",
+			"Edg",
+			"i",
+			"reduction(tmp)",
+			"Forwardsub",
+			"[i]",
+			"];\n",
+			"from",
+			"pos",
+			"y()",
+			"*/",
+			"/*",
+			"can->state.",
+			"can.",
+			"set<Candidate>",
+			"reached",
+			".x",
+			".y",
+			".x",
+			"p.",
+			"to.",
+			"from.",
+			"vel.",
 			"x",
-			"canfill",
-			"size",
-			"ll",
-			"num2pos",
-			";\n",
-			"w",
-			"a",
-			";\n",
-			"}",
-			";\n",
-			"j",
-			"i",
-			"k",
-			"i",
-			"maxh",
-			"h",
-			"1000001",
-			"j",
-			"i",
-			"Folder",
-			"Integer",
-			"CF2014_",
-			" {",
-			"ArrayList",
-			"all",
-			"inpacket",
-			"outPacket",
-			"inPacket",
-			"inpacket",
-			"inPacket",
-			"outData",
-			"inData",
-			"outPacket",
-			"inPacket",
-			"outData",
-			"inData",
-			"k",
-			"j",
-			"+k",
-			"k",
-			"){}",
-			"+",
-			"city",
-			"j",
-			"j-1",
-			"temp",
-			"j-1",
-			"str[i][j-1]",
-			"str[i-1][j]",
-			"temp",
-			"max",
-			"sum",
-			"sqrt",
-			"SQRT",
-			"sqrt",
-			"}",
-			"]);",
-			"MAX_N",
-			" \n",
-			"\t\t\t\t\n",
-			"S",
-			" \n"
+			"rs",
+			"c",
+			"pos.y",
+			"pos.y()",
+			"pos.y",
+			"nxt",
+			"Point",
+			"ObstState::course",
+			".intersects(m)",
+			"LineSegment",
+			"l.b",
+			"l.a",
+			"p2",
+			"p1",
+			"obstacle",
+			"OBSTACLE",
+			"obstacle",
+			"OBSTACLE",
+			"obstacle",
+			"OBSTACLE",
+			"obstacle",
+			"OBSTACLE",
+			"obstacle",
+			"OBSTACLE",
+			"obstacle",
+			"OBSTACLE",
+			"obstacle",
+			"return false;\n",
+			"OBSTACLE",
+			"obstacle",
+			"OBSTACLE",
+			"obstacle",
+			"OBSTACLE",
+			"obstacle",
+			"OBSTACLE",
+			"obstacle",
+			"OBSTACLE",
+			"obstacle",
+			"OBSTACLE",
+			"obstacle",
+			"Opp",
+			"next_pos",
+			"I",
+			"p.y",
+			"p.x",
+			"p2",
+			"p1",
+			"nextPos",
+			"nextVel",
+			"mp",
+			"I",
+			"i++",
+			"<",
+			"<n",
+			"<N",
+			"=",
+			"$1",
+			"1",
+			"course$2.smrjky",
+			"x",
+			"data_array",
+			"1",
+			"2",
+			"Obstacle_Impl",
+			"stoi",
+			"finish_color",
+			"ソースコード",
+			"\\,",
+			"subsection",
+			"カメラ",
+			"\\\\\n",
+			"\\beta",
+			"eqnarray*",
+			"xyy",
+			"左",
+			"を初期値に",
+			"     ",
+			"    ",
+			"   ",
+			"  ",
+			"vec3",
+			"item",
+			"\\par",
+			"toolset",
+			"pyt",
+			"python",
+			"python.init",
+			", ",
+			"$",
+			"_"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -840,6 +1093,9 @@
 		"regex": false,
 		"replace_history":
 		[
+			"        //",
+			";\n",
+			"int",
 			";\n",
 			"}",
 			"}\n",
@@ -891,11 +1147,23 @@
 		]
 	},
 	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
 	"output.exec":
 	{
-		"height": 175.0
+		"height": 203.0
 	},
 	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 351.0
+	},
+	"output.mdpopups":
 	{
 		"height": 0.0
 	},
@@ -903,7 +1171,7 @@
 	"project": "atcoder.sublime-project",
 	"replace":
 	{
-		"height": 102.0
+		"height": 98.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -912,6 +1180,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"cpp\\AOJ\\ICPC\\ASIA_2017\\A.cpp"
+			]
 		],
 		"width": 0.0
 	},
@@ -923,7 +1195,7 @@
 		[
 			[
 				"",
-				"C:\\Users\\zuraj\\RubyOnRails\\workspace\\taskapp\\taskapp.sublime-project"
+				"C:\\Users\\zuraj\\ruby\\http.sublime-project"
 			]
 		],
 		"width": 760.0
@@ -949,7 +1221,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 277.0,
+	"side_bar_width": 250.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
